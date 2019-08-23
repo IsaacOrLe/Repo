@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javafxswingapplication1;
-
+//Aqui ya Hice una modificaciooooon :3
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import javafx.application.Platform;
